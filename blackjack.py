@@ -1,4 +1,3 @@
-from math import factorial, trunc
 from random import shuffle
 
 def createDeck():
